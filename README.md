@@ -1,2 +1,2 @@
 # lock
-good
+A novice creation
